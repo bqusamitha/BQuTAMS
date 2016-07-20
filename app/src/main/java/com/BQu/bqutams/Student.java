@@ -9,7 +9,7 @@ public class Student {
     private String student_phonenumber;
     private String student_id;
     private String student_email;
-//treterte
+
 
     public String getStudent_name() {
         return student_name;
